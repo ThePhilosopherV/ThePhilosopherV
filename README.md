@@ -1,1 +1,2 @@
-Your actions and your feelings could be two separate things if you chose to.
+We get the world we deserve.
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=ThePhilosopher)
