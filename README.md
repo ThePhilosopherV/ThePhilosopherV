@@ -1,1 +1,1 @@
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=ThePhilosopher&gstats=show&style=astral)
+![example workflow](https://root-me-badge.cloud.duboc.xyz/storage_clients/2683b88fbc4ab30cadc8e3d88a568557/badge.js)
